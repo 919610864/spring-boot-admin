@@ -41,4 +41,8 @@ public class CloudFoundryMetadataContributor implements MetadataContributor {
         }
         return Collections.emptyMap();
     }
+    public static void main(String [] args){
+
+    }
+
 }
